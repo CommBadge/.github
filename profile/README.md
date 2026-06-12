@@ -19,6 +19,16 @@ Automatic Chat Shoutouts: If a community member is sends a message in your Twitc
 
 Distributed under the MIT License. See LICENSE in each projects for more information.
 
+# 💻 Development Environment
+
+My development environment is as follows:
+- [Debian Trixie](https://www.debian.org)
+- [node v24.16.0 (installed via nvm)](https://github.com/nvm-sh/nvm)
+- [uv with python 3.14.6 installed](https://docs.astral.sh/uv/)
+- [go 1.26.4](https://go.dev)
+- [Docker](https://docs.docker.com/engine/install/debian/)
+- [kind](https://kind.sigs.k8s.io/)
+
 # 🤝 Contributing
 
 Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
