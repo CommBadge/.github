@@ -13,7 +13,7 @@ Streamer Alerts: Instantly notifies your Discord server the moment you go live o
 
 Community Support: Automatically posts a notification when a subscribed community member starts their stream, boosting peer-to-peer support.
 
-Automatic Chat Shoutouts: If a community member is sends a message in your Twitch chat, CommBadge triggers an automatic shoutout to drive traffic to their channel.
+Automatic Chat Shoutouts: If a community member sends a message in your Twitch chat, CommBadge triggers an automatic shoutout to drive traffic to their channel.
 
 # 📝 License
 
